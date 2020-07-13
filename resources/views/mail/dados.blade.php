@@ -123,7 +123,7 @@
                 </div>
             <div class="text-center">
                 <a href="http://lira.digplay.tech/"  class="btn  botaoSmall"><b>DEV LIRA</b></a>
-                <p>Esta mensagem destina-se a  {{$email}}</p>
+                <p>Esta mensagem destina-se a  {{getenv('MAIL_FROM_ADDRESS')}}</p>
             </div>
         </div>
     </body>
