@@ -45,9 +45,7 @@ php artisan serve
 Como Usar
 =====
 
-Abra um navegador no endereço http://localhost:8000 e cadastre seus dados e evie o formulário
-Inputar dados no formulário e enviar.
-
+Abra um navegador no endereço http://localhost:8000 e cadastre os dados requeridos e evie o formulário
 
 Qualquer dúvida entrar em contato.
 
