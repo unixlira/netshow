@@ -15,7 +15,9 @@ Fazer o clone no diretório do servidor web
 git clone https://github.com/unixlira/netshow
 ```
 
-Instalar bibliotecas do sistema
+"Atenção: Rodar todos comandos no diretorio raiz do projeto"
+
+Instalar bibliotecas do sistema, rode o comando
 
 ```
 composer install
@@ -27,13 +29,13 @@ Atenção o endereço de email fornecido no campo 'MAIL_FROM_ADDRESS' do arquivo
 formulário serão enviados no corpo do email como confirmação.
 
 
-Inserir tabelas no banco de Dados
+Inserir tabelas no banco de Dados, rode o comando
 
 ```
 php artisan migrate
 ```
 
-No doretorio raiz do projeto
+Abrir o projeto no navegador, rode o comando
 
 ```
 php artisan serve
