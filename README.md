@@ -11,6 +11,12 @@ Fazer o clone no diretório do servidor web
 https://github.com/unixlira/netshow
 ```
 
+Rodar o comando 
+
+```
+composer install
+```
+
 Tabelas do banco de Dados, rodar o comando:
 
 ```
