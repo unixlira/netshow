@@ -23,7 +23,8 @@ composer install
 
 Aós instalado edite o arquivo '.env.example' com os dados do banco de dados e do servidor de email e depois renomeie para '.env'
 
-Atenção o endereço de email fornecido no campo 'MAIL_FROM_ADDRESS' do arquivo .env, será o endereço onde os dados informados no formulário serão enviados
+Atenção o endereço de email fornecido no campo 'MAIL_FROM_ADDRESS' do arquivo .env, será o endereço onde os dados informados no 
+formulário serão enviados no corpo do email como confirmação.
 
 
 Inserir tabelas no banco de Dados
