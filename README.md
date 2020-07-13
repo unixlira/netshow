@@ -5,10 +5,13 @@ Página de cadastro com validaçãode no email e telefone, envio das informaçõ
 
 Instalação
 ============
+
+Abra um terminal de seu sistema e rode os comandos abaixo.
+
 Fazer o clone no diretório do servidor web
 
 ```
-https://github.com/unixlira/netshow
+git clone https://github.com/unixlira/netshow
 ```
 
 Rodar o comando 
@@ -23,7 +26,7 @@ Tabelas do banco de Dados, rodar o comando:
 php artisan migrate
 ```
 
-Abra um terminal de seu sistema e no doretorio raiz do  projeto rode o comando
+No doretorio raiz do  projeto rode o comando
 
 ```
 php artisan serve
